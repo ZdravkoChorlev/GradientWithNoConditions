@@ -1,0 +1,2 @@
+# GradientWithNoConditions
+Tu-sofia exercise
